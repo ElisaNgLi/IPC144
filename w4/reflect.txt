@@ -1,0 +1,26 @@
+/*
+Name: Elisa Ng
+Student ID: 136265170
+Section: IPC144SMM
+*/
+
+
+1)	In one or two sentences explain why the arrays in this program have to be declared to hold 10 elements? 
+
+Because it is the maximum of days that we are trying to display in the program, and the number 10 represents the size of the array.
+
+2)	In two or three sentences explain the advantages and disadvantages of using matching arrays? \
+
+Advantages										
+-It hold data that are similar to the same entity
+- Simple to process
+-Simple to understand and use
+
+Disadvantages
+-Little direct language support
+-You can use it wrong if you don’t how it works
+-
+
+3)	Was the at home portion of this workshop too easy, just right or too hard? Why? 
+
+For me it was a little bit too hard because I spend a lot of time thinking how to do it and what type of loops should I use and how can I make the program stop after the user enter a negative number, with the little knowledge that I had I couldn’t do it by myself so I had to investigate and ask friends for advice in order to do the at home part.

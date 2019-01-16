@@ -1,0 +1,12 @@
+Name: Elisa Ng
+Student number: 136265170
+Email: eng-li@myseneca.ca
+Section: SMM
+Date: 03/09/2018
+
+1.	Can you think of a more efficient way to ask a user to add the required information to each data field? 
+For me a more efficient way to do it is like the previous workshop where we have some options prompt first for the user and then the user can insert, is more easy to do this way and much more organized than the way we did this program. 
+
+2.	Explain why a C string that is required to store up to 25 characters must be capable of storing 26 characters. 
+
+How we store memory for a string is the same way as an array. Since the null terminator is one of the elements in the array, we store memory for one more character than the number of meaningful characters. 

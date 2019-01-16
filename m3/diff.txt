@@ -1,0 +1,10 @@
+
+In line number 27 of your output:
+The output should be:
+*** INVALID INTEGER *** <Please enter an integer>: 144
+But your output is: 
+*** INVALID INTEGER *** <Please enter an intiger>: 144
+                                            ^
+--------------------------------------------|
+Professor's character ASCII code: hex(65), dec(101)
+un-matched character ASCII code: hex(69), dec(105)

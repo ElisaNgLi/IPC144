@@ -1,0 +1,21 @@
+/*Name: Elisa Ng
+Student ID: 136256170
+Section: SMM
+*/
+
+
+1)	Name all the iteration constructs. 
+
+There are three iteration constructs:
+*while 
+*do while
+*for
+
+2)	In two or three sentences explain the difference between a “do while” and a “while” loop? 
+
+The while loop checks if the condition is true first before executing. And the do while loop executes first and then checks if the condition is true before continuing with the loop.
+
+3)	In two or three sentences explain what is meant by the term conditional expression? 
+
+This is like the short version of a “If” or a “Case-by-case”, this mean that you have the condition in one line, they use two expressions which are ? : operator. If is true it will evaluate the ? operand, but if it the condition is false it will evaluate the : operand.
+

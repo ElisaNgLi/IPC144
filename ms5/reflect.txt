@@ -1,0 +1,13 @@
+
+Name: Elisa Ng
+Student number: 136265170
+Email: eng-li@myseneca.ca
+Section: SMM
+
+Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your
+source code with respect to overall maintenance and readability.
+
+With this two functions when coding the others parts we don’t need to repeat the same steps because it is already in the FindContactIndex or the getTenDigitPhone function so we avoid on writing the same code all over again, we just call those two functions, it’s not only going to make us save more time but others people can easily read the code and understand. 
+
+What did you learn most from doing Assignment 2?
+What I learn the most is about how every function is connected and how everything works well together, the importance of the arrays and structs. Also, when doing the code I encounter many errors but with that I could learn more about this functions and how everything works. 

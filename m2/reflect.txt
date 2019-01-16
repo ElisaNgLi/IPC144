@@ -1,0 +1,18 @@
+/* -------------------------------------------
+Name: Elisa Ng
+Student number: 136265170
+Email: eng-li@myseneca.ca
+Section: SMM
+----------------------------------------------*/
+
+1.	Briefly explain why you think this assignment has asked you to code a struct, Contact, that holds three other structs as data members. 
+
+I think it is because this way we can practice the use of pointers and functions
+
+2.	What was the most difficult part of this assignment? 
+
+The most difficult part was the Milestone 4, trying to understand how to do it and the logic behind it. It was a little bit difficult at the beginning, I have to research a lot in order to understand completely how to do the program.
+
+3.	How long did it take you to complete Milestone 4? 
+
+It took me almost all the weekend to finish the Milestone 4. I encounter some errors in my code and I was trying to fix it but eventually I did. 

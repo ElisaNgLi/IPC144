@@ -1,0 +1,14 @@
+/* -------------------------------------------
+Name: Elisa Ng
+Student number: 136265170
+Email: eng-li@myseneca.ca
+Section: SMM
+---------------------------------------------- */
+
+1. In 3 or 4 sentences explain the term “function” and briefly discuss the need for functions in any language?
+
+A function is an independent collection that together perform a specific task. The purpose of functions is to do specifics task that can be called repeatedly from anywhere in the program, so that you don't have to write the code every time you need it. Functions is a must in any language because it is a very useful construct and makes the program more readable and organized, and we reduce time by not repeating code. 
+
+2. Briefly explain why you think the "helper" functions are in a different module and why those functions were not included in the "contacts" module?
+
+"Helper" function and "contacts" function are very different that’s why we used it separately because the type of data it is different, and we didn't include the helper function in the contacts function because it is more organized this way to separate the contacts with the information that the user want to put in the program and the helpers with the menu option, also it is more easy for us to code like this because this way we know where is every function.

@@ -1,0 +1,46 @@
+/*Name: Elisa Ng
+Student ID: 136256170
+Section: SMM 
+*/
+
+#define _CRT_SECURE_NO_WARNINGS
+
+#include <stdio.h>
+#define NUMS 3
+
+int main(void)
+{
+	int high, low, i, j, total_high=0, total_low=0;
+	float avarage;
+
+	printf("---=== IPC Temperature Analyzer ===---");
+	for (i = 0; i < NUMS; i++) {
+		
+		for(j=0; j<NUMS ; j++, i++ ){
+			printf("\nEnter the high value for day %d: ", i + 1);
+			scanf("%d", &high);
+			printf("\nEnter the low value for day %d: ", j + 1);
+			scanf("%d", &low);
+			while (high < low || high >= 41 || low <= -41)
+			{
+
+				printf("\nIncorrect values, temperatures must be in the range -40 to 40, high must be greater than low.\n");
+
+				printf("\nEnter the high value for day %d: ", i + 1);
+				scanf("%d", &high);
+			
+				printf("\nEnter the low value for day %d: ", j + 1);
+				scanf("%d", &low);
+			}
+				total_high += high;
+				total_low += low;
+		}
+		avarage = (float)(total_high + total_low) / (NUMS*2);
+		printf("\nThe average (mean) temperature was: %.2f\n", avarage);
+
+	}
+
+	
+	return 0;
+
+}
